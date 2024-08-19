@@ -1,4 +1,4 @@
-# Band Name Generator
+#1_day1_project_band_name_generator
 
 This simple Python script generates a band name based on the city you grew up in and the name of a pet.
 
